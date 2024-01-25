@@ -1,0 +1,20 @@
+.first {
+    height: 300px;
+    width: 2000px;
+    background-color: green;
+    text-align: top;
+}
+.second {
+    height: 300px;
+    width: 2000px;
+    background-color: white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 150px;
+}
+.third {
+    height: 300px;
+    width: 2000px;
+    background-color: red;
+    text-align: top;
+}
